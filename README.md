@@ -1,4 +1,4 @@
-### Hi there 👋
+### 面朝大海，春暖花开
 
 <!--
 **ElizabethEmilia/ElizabethEmilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
